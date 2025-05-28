@@ -16,6 +16,8 @@ This lab is the final step in the osTicket lab series, simulating a full help de
 ---
 
 For lab purposes we will delete the "Maintanence" department to default tickets to the "Support" department
+![image](https://github.com/user-attachments/assets/3de534a3-cc87-4e10-8e99-099cba86baeb)
+
 
 
 ## 🧑‍💻 End-to-End Ticket Scenarios

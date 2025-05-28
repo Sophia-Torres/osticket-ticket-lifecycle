@@ -16,7 +16,7 @@ This lab is the final step in the osTicket lab series, simulating a full help de
 ---
 
 For lab purposes we will delete the "Maintanence" department to default tickets to the "Support" department
-<img width="1180" alt="image" src="https://github.com/user-attachments/assets/dd1afb5f-5e73-4697-b689-81310e6c6bfe" />
+
 
 ## 🧑‍💻 End-to-End Ticket Scenarios
 
@@ -25,6 +25,7 @@ A customer submitted a high-priority ticket reporting that the entire mobile and
 
 **End User:**  
 > "Entire mobile/online banking system is down."
+<img width="1180" alt="image" src="https://github.com/user-attachments/assets/dd1afb5f-5e73-4697-b689-81310e6c6bfe" />
 
 
 
